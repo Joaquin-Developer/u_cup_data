@@ -1,0 +1,4 @@
+*.sql
+backups/
+credentials.json
+mycreds.txt
